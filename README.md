@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# 필기 - 이론정리
+# 필 기
 
 </div>
 
