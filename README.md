@@ -35,3 +35,11 @@
 * 복소전력
 * 단상전력 측정
 * 최대 전송전력
+
+### [CH05. 유도결합회로](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH05.%20%EC%9C%A0%EB%8F%84%EA%B2%B0%ED%95%A9%ED%9A%8C%EB%A1%9C.pdf)
+
+* 유도결합회로
+* 결합계수 K
+* 합성 인덕턴스
+* 이상 변압기의 권수비
+* 교류 브릿지 회로 평형조건
