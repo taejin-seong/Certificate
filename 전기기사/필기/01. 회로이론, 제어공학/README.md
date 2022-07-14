@@ -43,3 +43,11 @@
 * 합성 인덕턴스
 * 이상 변압기의 권수비
 * 교류 브릿지 회로 평형조건
+
+### [CH06. 일반 선형 회로망](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH06.%20%EC%9D%BC%EB%B0%98%20%EC%84%A0%ED%98%95%20%ED%9A%8C%EB%A1%9C%EB%A7%9D.pdf)
+
+* 이상 전원 및 등가 변환
+* 키르히호프의 법칙
+* 중첩의 정리
+* 밀만의 정리
+* 가역 정리
