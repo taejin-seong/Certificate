@@ -51,3 +51,14 @@
 * 중첩의 정리
 * 밀만의 정리
 * 가역 정리
+
+### [CH07. 다상교류](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH07.%20%EB%8B%A4%EC%83%81%EA%B5%90%EB%A5%98.pdf)
+
+* 대칭 3상 교류 기전력
+* 대칭 3상 결선
+* 대칭 3상 교류전력
+* 대칭 n상 교류 회로
+* 임피던스 △결선과 Y결선의 등가변환
+* Y결선과 △결선 비교
+* 2전력계 측정법
+* V결선
