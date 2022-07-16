@@ -62,3 +62,11 @@
 * Y결선과 △결선 비교
 * 2전력계 측정법
 * V결선
+
+### [CH08. 대칭좌표법](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH08.%20%EB%8C%80%EC%B9%AD%EC%A2%8C%ED%91%9C%EB%B2%95.pdf)
+
+* 대칭 좌표법
+* 불평형률
+* a상을 기준한 대칭 3상 대칭분 전압
+* 대칭 3상 교류 발전기의 기본식
+* 1선 지락사고 및 2선 지락사고
