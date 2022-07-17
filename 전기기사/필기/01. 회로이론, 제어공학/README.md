@@ -70,3 +70,12 @@
 * a상을 기준한 대칭 3상 대칭분 전압
 * 대칭 3상 교류 발전기의 기본식
 * 1선 지락사고 및 2선 지락사고
+
+### [CH09. 비정현파 교류](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH09.%20%EB%B9%84%EC%A0%95%ED%98%84%ED%8C%8C%20%EA%B5%90%EB%A5%98.pdf)
+
+* 비정현파 교류
+* 비정현파 교류의 대칭성
+* 비정현파 교류의 실효값
+* 비정현파 교류의 n고조파 직렬임피던스
+* 비정현파 교류전력
+* 상회전에 따른 고조파 차수
