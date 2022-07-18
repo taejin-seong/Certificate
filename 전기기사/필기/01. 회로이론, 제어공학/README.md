@@ -79,3 +79,10 @@
 * 비정현파 교류의 n고조파 직렬임피던스
 * 비정현파 교류전력
 * 상회전에 따른 고조파 차수
+
+### [CH10. 2단자망](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH10.%202%EB%8B%A8%EC%9E%90%EB%A7%9D.pdf)
+
+* 2단자망의 구동점 임피던스 Z(s)[Ω]
+* 역회로 (쌍대의 회로)
+* 정저항 회로
+* 함수와 2단자 회로망의 관계
