@@ -104,3 +104,9 @@
 * 라플라스 변환
 * 라플라스 변환에 관한 여러가지 정리
 * 역 라플라스 변환
+
+### [CH14. 전달함수](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH14.%20%EC%A0%84%EB%8B%AC%ED%95%A8%EC%88%98.pdf)
+
+* 전달함수
+* 제어요소의 전달함수
+* 미분방정식에 따른 전달함수 (실미분 정리를 이용)
