@@ -135,3 +135,14 @@
 * 블록선도
 * 신호 흐름선도에 의한 전달함수
 * 운동계와 전기계의 상대적 관계
+
+### [CH03. 자동제어계의 과도응답](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99%20%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH03.%20%EC%9E%90%EB%8F%99%EC%A0%9C%EC%96%B4%EA%B3%84%EC%9D%98%20%EA%B3%BC%EB%8F%84%EC%9D%91%EB%8B%B5.pdf)
+
+* 응답(출력)
+* 시간응답(출력) 특성곡선
+* 2차계의 전달함수
+* 특성방정식의 근의 위치에 따른 응답곡선
+* 전상편차 $\ e_{ss} $
+* 자동제어계의 형의 분류
+* 형의 분류에 의한 정상편차 및 편차상수
+* 감도
