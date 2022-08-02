@@ -146,3 +146,17 @@
 * 자동제어계의 형의 분류
 * 형의 분류에 의한 정상편차 및 편차상수
 * 감도
+
+### [CH04. 주파수 응답](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99%20%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH04.%20%EC%A3%BC%ED%8C%8C%EC%88%98%20%EC%9D%91%EB%8B%B5.pdf)
+
+* 주파수 응답(출력)
+* 벡터궤적(나이퀴스트 선도)
+* 보드 선도
+
+### [CH05. 안정도 판별법](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99%20%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH05.%20%EC%95%88%EC%A0%95%EB%8F%84%20%ED%8C%90%EB%B3%84%EB%B2%95.pdf)
+
+* 안정 필요조건
+* 복소평면(s-평면)에 의한 안정판별
+* Routh 수열에 의한 안정판별
+* Hurwitz 안정 판별법
+* Nyquist 선도 안정 판별
