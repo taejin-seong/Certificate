@@ -160,3 +160,14 @@
 * Routh 수열에 의한 안정판별
 * Hurwitz 안정 판별법
 * Nyquist 선도 안정 판별
+
+### [CH06. 근궤적법](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99%20%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH06.%20%EA%B7%BC%EA%B6%A4%EC%A0%81%EB%B2%95.pdf)
+
+* 근궤적
+
+### [CH07. 상태방정식 및 Z-변환](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99%20%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH07.%20%EC%83%81%ED%83%9C%EB%B0%A9%EC%A0%95%EC%8B%9D%20%EB%B0%8F%20Z-%EB%B3%80%ED%99%98.pdf)
+
+* 상태방정식
+* Z-변환
+
+
