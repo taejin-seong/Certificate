@@ -8,7 +8,7 @@
 
 ### [02. 전기자기학]()
 
-### [03. 전력공학]()
+### [03. 전력공학](https://github.com/taejin-seong/Certificate/tree/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/03.%20%EC%A0%84%EB%A0%A5%EA%B3%B5%ED%95%99)
 
 ### [04. 전기기기]()
 
