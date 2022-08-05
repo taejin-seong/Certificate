@@ -170,4 +170,17 @@
 * 상태방정식
 * Z-변환
 
+### [CH08. 시퀀스 제어](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99%20%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH08.%20%EC%8B%9C%ED%80%80%EC%8A%A4%20%EC%A0%9C%EC%96%B4.pdf)
+
+* 시퀀스 제어
+* 시퀀스 논리회로
+* 부울대수와 드모르간 정리
+* 논리대수 정리
+
+### [CH09. 제어기기](https://github.com/taejin-seong/Certificate/blob/master/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC/%ED%95%84%EA%B8%B0/01.%20%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0%2C%20%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99/%EC%A0%9C%EC%96%B4%EA%B3%B5%ED%95%99%20%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/CH09.%20%EC%A0%9C%EC%96%B4%EA%B8%B0%EA%B8%B0.pdf)
+
+* 변환요소 및 변환장치
+* 제어소자
+* 비례적분미분(PID동작)의 전달함수
+
 
